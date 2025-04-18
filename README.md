@@ -1,6 +1,6 @@
 # A. M. Jonathan
 
-Greeting! Welcome to my GitHub profile 👋. It is a pleasure to have you here. I am a first-class graduate of Applied Mathematics with a strong passion for Information Technology. My curiosity drives me to constantly learn new technologies and take on exciting challenges in data science. Whether it involves creating clean code or devising innovative solutions, my commitment is to deliver excellent results consistently.
+Greeting! Welcome to my GitHub profile 👋. It is a pleasure to have you here. I am a first-class graduate of Applied Mathematics with a strong passion for Information Technology. My curiosity drives me to constantly learn new technologies and take on exciting challenges in data science. Whether it involves writing clean code or devising innovative solutions, my commitment is to deliver excellent results consistently.
 
 ## Tech Stack
 Here is a list of technologies and tools that I often work with:
