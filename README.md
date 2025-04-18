@@ -1,18 +1,18 @@
 # A. M. Jonathan
 
-Greeting! Welcome to my GitHub profile 👋. It is a pleasure to have you here. I am a first-class graduate of Applied Mathematics with a strong passion for Information Technology. My curiosity drives me to constantly learn new technologies and take on exciting challenges in data science. Whether it involves writing clean code or devising innovative solutions, my commitment is to deliver excellent results consistently.
+Greeting! Welcome to my GitHub profile 👋. It is a pleasure to have you here. I am a first-class graduate of Applied Mathematics with a strong passion for Information Technology. My curiosity drives me to constantly learn new technologies and take on exciting challenges in data science. Whether it involves writing clean codes or devising innovative solutions, my commitment is to deliver excellent results consistently.
 
 ## Tech Stack
 Here is a list of technologies and tools that I often work with:
 
-- Programming Languages: Python, MATLAB, C/C++
-- Python Packages: Pandas, Numpy, SciPy, Matplotlib, Seaborn, BeautifulSoup, Jupyter
-- Databases: MySQL, db2
-- Version Contol: Git
+- Programming Languages: Python, MATLAB, C/C++, JavaScript
+- Python Libraries: Sckit-learn, TensorFlow, PyTorch, NumPy, Pandas, Matplotlib
+- Databases: SQL and MongoDB
+- Version Contol: Git and GitHub
 - Other tools: HTML, CSS, LaTex, Excel, Adobe Photoshop
 
 ## Certifications
-
+- MSc Applied Mathematics
 - AWS AI & ML Nanodegree program
 - Machine Learning with Python
 - Python for Data Science, AI & Development
