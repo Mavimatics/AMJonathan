@@ -29,7 +29,7 @@ Here is a list of technologies and tools that I often work with:
 Feel free to explore my repositories, and don not hesitate to connect with me:
 - Email: [mavianoabel@gmail.com](mailto:mavianoabel@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/abel-jonathan-a69010183/)
-- Google Scholar: [Google Scholar Profile]([https://www.linkedin.com/in/abel-jonathan-a69010183/](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ANZ5fUN3EoZPb1-5xtsG7EflJxaeHxas8BFkwg8Wd7gFoQl2c3Bblikn_eeZKbRRrjoHDpYD9OJPz3HNzXpxtQ&user=tukcSV0AAAAJ))
+- Google Scholar: [Google Scholar Profile]([https://www.linkedin.com/in/abel-jonathan-a69010183/](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ANZ5fUN3EoZPb1-5xtsG7EflJxaeHxas8BFkwg8Wd7gFoQl2c3Bblikn_eeZKbRRrjoHDpYD9OJPz3HNzXpxtQ&user=tukcSV0AAAAJ)
 
 
 I am open to collaboration and eager to learn and contribute to exciting projects!🦾
