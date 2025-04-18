@@ -32,4 +32,4 @@ Feel free to explore my repositories, and don not hesitate to connect with me:
 - Google Scholar: [Google Scholar Profile](https://scholar.google.com/citations?user=tukcSV0AAAAJ&hl=en)
 
 
-I am open to collaboration and contribute to exciting projects!🦾
+I am open to collaborate and contribute to exciting projects!🦾
